@@ -1,6 +1,6 @@
 # nerkyzas157 portfolio
 
-# [Project 1: Steam Data Analysis] 
+# [Project 1: Steam Data Analysis] (https://github.com/nerkyzas157/Steam_Data_Analysis)
 
 In this project I utilized MySQL for data management, dive into gaming trends, user behavior, and more.
 In future I will implement gathered data insight to Power BI for dynamic visualizations.
