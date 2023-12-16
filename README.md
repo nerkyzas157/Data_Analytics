@@ -1,11 +1,13 @@
-# nerkyzas157 porfolio
+# nerkyzas157 portfolio
 
 # [Project 1: Steam Data Analysis] 
 
-Explore and analyze Steam data with Steam Data Analysis. This project utilizes MySQL for data management. Dive into gaming trends, user behavior, and more.
+In this project I utilized MySQL for data management, dive into gaming trends, user behavior, and more.
 In future I will implement gathered data insight to Power BI for dynamic visualizations.
 
-*Data was taken from (https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv)
+*Data was taken from (https://www.kaggle.com/datasets/antonkozyriev/game-recommendations-on-steam/data?select=games.csv).
+*Data was cleaned with Microsoft Excel.
+*SQL was used for data manipulation.
 
 
 ## Completed Features:
